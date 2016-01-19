@@ -12,5 +12,7 @@ https://github.com/TUSofia/vavedenie/wiki
 
 http://tusofia.github.io/vavedenie/
 
-Най-важното от проекта в .docx формат можете да изтеглите от тук: https://github.com/TUSofia/vavedenie/blob/master/vavedenie-v-github.docx?raw=true
+Най-важното от проекта в .docx формат можете да изтеглите от тук:
+
+https://github.com/TUSofia/vavedenie/blob/master/vavedenie-v-github.docx?raw=true
 
